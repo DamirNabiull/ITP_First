@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/HW_1.dir/main.c.o  -o HW_1 

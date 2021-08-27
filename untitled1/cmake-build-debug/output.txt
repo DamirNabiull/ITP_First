@@ -1,0 +1,2 @@
+Encrypted message: 1024 
+Decrypted message: 4 
